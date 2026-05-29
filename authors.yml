@@ -2,14 +2,18 @@ version: 1
 project:
   
   authors:
-    - id: student
-      name: student without a name yet
+    - id: student-1
+      name: Inge Schmidt (5604745)
+      affiliations:
+        - tud
+    - id: student-2
+      name: Jacob Schoones (6071260)
       affiliations:
         - tud
 
   contributors:
     - id: supervisor-1
-      name: prof. dr. John Doe
+      name: dr. Bahareh Abdikivanani
       affiliations:
         - tud
     - id: committee-1
