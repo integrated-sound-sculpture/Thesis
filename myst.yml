@@ -1,12 +1,13 @@
 # $env:BASE_URL = "/starterkit"
 version: 1
 project:
-  title: TU Delft's JB Starterkit
+  title: Creating an Educational Interactive Sound Sculpture
+  subtitle: Digital Signal Processing and Wave Generation.
   # description:
-  keywords: [Jupyter Book, Open Science, TU Delft, Starterkit]
+  keywords: [Sound, Instrument, TU Delft, NLT, Education, Signal Processing, Wave Generation]
 
-  github: https://github.com/TUD-JB-OS/starterkit # change this to your own repository
-  date: 2026-01-31
+  github: https://github.com/IngeSchmidt/Thesis_ISS_SP # change this to your own repository
+  date: 2026-06-20
   thumbnail: style/thumbnail.jpg
   numbering: 
     title: true
@@ -67,6 +68,6 @@ site:
   # custom parts
   parts:
     footer:       style/footer.md
-    banner:       Visit our new website at [https://jboss.tudelft.nl](https://jboss.tudelft.nl) for the latest updates and resources! See also our newest [Typst template](https://github.com/TUD-JB-OS/typst_template.git) version
+    banner:       Moving your hand can help you understand sound better. This project explores the design and implementation of an interactive sound sculpture for educational purposes, focusing on digital signal processing and wave generation.
 
 # 
