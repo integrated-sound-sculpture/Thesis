@@ -10,6 +10,4 @@ project:
     - file: content/6.Conclusion.md
     - title: Appendix
       children:
-        - file: content/Cheatsheet.md
-        - file: errorlog.md
-        - file: README.md
+        - file: content/A.Appendix.md
