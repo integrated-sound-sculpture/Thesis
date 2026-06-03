@@ -1,7 +1,7 @@
 version: 1
 project:
   toc:
-    - file: content/1.Introduction2.md
+    - file: content/0.SitePreface.md
     - file: content/1.Introduction.md
     - file: content/2.Theory.md
     - file: content/3.Method.md
