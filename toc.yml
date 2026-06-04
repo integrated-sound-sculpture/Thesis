@@ -1,6 +1,7 @@
 version: 1
 project:
   toc:
+    - file: content/0.SitePreface.md
     - file: content/01.Introduction.md
     - file: content/02.ProgramofRequirements.md
     - file: content/03.HW_S_Overview.md
