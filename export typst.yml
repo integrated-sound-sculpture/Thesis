@@ -66,7 +66,7 @@ project:
       # Bibliography style passed to Typst. Default: chicago-author-date.
       # Common built-in Typst styles include:
       # ieee | apa | mla | chicago-author-date | chicago-notes
-      bibliography_style: chicago-author-date
+      bibliography_style: ieee
       
       # Number the bibliography as a top-level heading. Default: false.
       bibliography_numbered_heading: false

@@ -4,6 +4,7 @@ project:
     - file: content/0.SitePreface.md
     - file: content/01.Introduction.md
     - file: content/02.ProgramofRequirements.md
+    - file: content/03.5Overview.md
     - file: content/03.HW_S_Overview.md
     - file: content/04.HW_S_Sensing.md
     - file: content/05.HW_S_Visualization.md
