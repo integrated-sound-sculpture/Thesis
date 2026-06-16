@@ -39,7 +39,7 @@ The genuine ethical aspects that arose during the design process are:
 These two aspects are competing values. When the device is more affordable for underprivileged schools the device will also be of lower quality. This will mean that the device breaks earlier, which will lead to more electronic waste. It is therefore essential to chose a middle ground between affordability and quality.
 
 ## Reflection on design choices
-The theremin was designed using only standard, widely available components that can be easily obtained from common electronics suppliers. This design choice was made to keep the overall cost of the device low, making it more affordable for schools with limited budgets.s
+The theremin was designed using only standard, widely available components that can be easily obtained from common electronics suppliers. This design choice was made to keep the overall cost of the device low, making it more affordable for schools with limited budgets.
 
 ## Forward-looking responsibility
 An important ethical issue regarding the educational theremin is its environmental impact. To reduce this impact, the theremin should be manufactured using recycled materials if the concept demonstrator were to be developed into a real-world educational product. The device should also be manufactured with a modular structure, allowing faulty or worn-out components to be replaced easily. This would prevent the need to discard the entire theremin when a single component fails, thereby reducing electronic waste and extending the product's lifespan.
