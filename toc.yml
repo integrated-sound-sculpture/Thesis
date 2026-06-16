@@ -14,7 +14,6 @@ project:
     - file: content/09.SP_RPI.md
     - file: content/10.Implementation.md
     - file: content/11.Discussion_Conclusion.md
-    - file: content/12.FinalConclusion.md
     - title: Appendix
       children:
         - file: content/A.Appendix.md
