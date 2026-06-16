@@ -277,7 +277,7 @@ project:
       
       # Show the optional cover description row in the colophon publication table. Default: false.
       show_colophon_cover_description: True
-      colophon_cover_description: The cover image is a template demonstration background.
+      colophon_cover_description: The cover image is an image of the prototype built in this project.
       
       # Show the optional confidentiality statement above the colophon publication table. Default: false.
       show_colophon_confidentiality_statement: true
@@ -289,8 +289,8 @@ project:
       # Optional fields shown in the colophon publication table:
       # colophon_printer: Printer name
       # colophon_publisher: Publisher name
-      colophon_copyright: © 2026 Twan Klaver, Axel Koning, and Guus Rekers
-      # colophon_copyright: © 2026 Inge Schmidt and Jacob Schoones
+      # colophon_copyright: © 2026 Twan Klaver, Axel Koning, and Guus Rekers
+      colophon_copyright: © 2026 Inge Schmidt and Jacob Schoones
 
       
       # Optional custom text shown below the colophon publication table and above the template watermark.
