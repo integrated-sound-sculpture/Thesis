@@ -2,12 +2,13 @@
 version: 1
 project:
   title: Creating an Educational Interactive Sound Sculpture
-  subtitle: Digital Signal Processing and Wave Generation.
+  # subtitle: Digital Signal Processing and Wave Generation.
+  subtitle: Hardware, Sensing and Visualization.
   # description:
   keywords: [Sound, Instrument, TU Delft, NLT, Education, Signal Processing, Wave Generation]
 
   github: https://github.com/IngeSchmidt/Thesis_ISS_SP # change this to your own repository
-  date: 2026-06-20
+  date: 2026-06-22
   thumbnail: style/thumbnail.jpg
   numbering: 
     title: true
@@ -68,6 +69,5 @@ site:
   # custom parts
   parts:
     footer:       style/footer.md
-    banner:       Moving your hand can help you understand sound better. This project explores the design and implementation of an interactive sound sculpture for educational purposes, focusing on digital signal processing and wave generation.
 
 # 
