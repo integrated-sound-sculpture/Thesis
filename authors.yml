@@ -2,26 +2,26 @@ version: 1
 project:
   
   authors:
-    # - id: student-1
-    #   name: Twan Klaver (5873290)
-    #   affiliations:
-    #     - tud
-    # - id: student-2
-    #   name: Axel Koning (6096972)
-    #   affiliations:
-    #     - tud
-    # - id: student-3
-    #   name: Guus Rekers (5496233)
-    #   affiliations:
-    #     - tud
     - id: student-1
-      name: Inge Schmidt (5604745)
+      name: Twan Klaver (5873290)
       affiliations:
         - tud
     - id: student-2
-      name: Jacob Schoones (6071260)
+      name: Axel Koning (6096972)
       affiliations:
         - tud
+    - id: student-3
+      name: Guus Rekers (5496233)
+      affiliations:
+        - tud
+    # - id: student-1
+    #   name: Inge Schmidt (5604745)
+    #   affiliations:
+    #     - tud
+    # - id: student-2
+    #   name: Jacob Schoones (6071260)
+    #   affiliations:
+    #     - tud
 
   contributors:
     - id: supervisor-1
@@ -32,14 +32,14 @@ project:
       name: Prof. Dr. C.J.M. Verhoeven
       affiliations:
         - tud
-    # - id: committee-2
-    #   name: Dr. S. Nur
-    #   affiliations:
-    #     - tud
     - id: committee-2
-      name: Dr. M.R. Vogt
+      name: Dr. S. Nur
       affiliations:
         - tud
+    # - id: committee-2
+    #   name: Dr. M.R. Vogt
+    #   affiliations:
+    #     - tud
 
   affiliations:
     - id: tud
