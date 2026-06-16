@@ -2,3 +2,4 @@
 _build
 *.pdf
 .venv/
+.DS_Store
