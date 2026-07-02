@@ -171,7 +171,7 @@ project:
       ## Graphical cover options:
       # Recommended: replace the default template cover image with your own.
       # If omitted, the template's built-in cover image is used.
-      cover_background_image: content/figures/fotos_theremin/DeEducationalTheremin.png
+      cover_background_image: content/figures/fotos_theremin/DeEducationalTheremin(Large).png
       # Legacy alias: cover_image
       
       # Graphical-cover contrast preset: white-on-dark | black-on-light. Default: white-on-dark.
