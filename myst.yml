@@ -2,8 +2,8 @@
 version: 1
 project:
   title: Creating an Educational Interactive Sound Sculpture
-  # subtitle: Digital Signal Processing and Wave Generation.
-  subtitle: Hardware, Sensing and Visualization.
+  subtitle: Digital Signal Processing and Wave Generation.
+  # subtitle: Hardware, Sensing and Visualization.
   # description:
   keywords: [Sound, Instrument, TU Delft, NLT, Education, Signal Processing, Wave Generation]
 

@@ -5,10 +5,10 @@ project:
     - file: content/01.Introduction.md
     - file: content/02.ProgramofRequirements.md
     - file: content/03.5Overview.md
-    - file: content/03.HW_S_Overview.md
-    - file: content/04.HW_S_Sensing.md
-    - file: content/05.HW_S_Visualization.md
-    - file: content/06.HW_S_Support_Systems.md
+    # - file: content/03.HW_S_Overview.md
+    # - file: content/04.HW_S_Sensing.md
+    # - file: content/05.HW_S_Visualization.md
+    # - file: content/06.HW_S_Support_Systems.md
     - file: content/07.SP_Overview.md
     - file: content/08.SP_ESP.md
     - file: content/09.SP_RPI.md
@@ -20,4 +20,4 @@ project:
         - file: content/B.AppendixB.md
         - file: content/C.AppendixC.md
         - file: content/D.AppendixD.md
-        - file: content/E.AppendixE.md
+        # - file: content/E.AppendixE.md

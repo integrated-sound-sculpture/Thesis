@@ -289,7 +289,7 @@ project:
       # Optional fields shown in the colophon publication table:
       # colophon_printer: Printer name
       # colophon_publisher: Publisher name
-      colophon_copyright: © 2026 Twan Klaver, Axel Koning, and Guus Rekers
+      colophon_copyright: © 2026 Twan Klaver, Axel Koning, Guus Rekers, Inge Schmidt and Jacob Schoones
       # colophon_copyright: © 2026 Inge Schmidt and Jacob Schoones
 
       

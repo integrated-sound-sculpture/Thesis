@@ -2,23 +2,23 @@ version: 1
 project:
   
   authors:
+    # - id: student-1
+    #   name: Twan Klaver
+    #   affiliations:
+    #     - tud
+    # - id: student-2
+    #   name: Axel Koning
+    #   affiliations:
+    #     - tud
+    # - id: student-3
+    #   name: Guus Rekers
+    #   affiliations:
+    #     - tud
     - id: student-1
-      name: Twan Klaver
-      affiliations:
-        - tud
-    - id: student-2
-      name: Axel Koning
-      affiliations:
-        - tud
-    - id: student-3
-      name: Guus Rekers
-      affiliations:
-        - tud
-    - id: student-4
       name: Inge Schmidt
       affiliations:
         - tud
-    - id: student-5
+    - id: student-2
       name: Jacob Schoones
       affiliations:
         - tud
@@ -32,11 +32,11 @@ project:
       name: Prof. Dr. C.J.M. Verhoeven
       affiliations:
         - tud
+    # - id: committee-2
+    #   name: Dr. S. Nur
+    #   affiliations:
+    #     - tud
     - id: committee-2
-      name: Dr. S. Nur
-      affiliations:
-        - tud
-    - id: committee-3
       name: Dr. M.R. Vogt
       affiliations:
         - tud
