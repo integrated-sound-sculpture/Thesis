@@ -14,14 +14,14 @@ project:
       name: Guus Rekers
       affiliations:
         - tud
-    - id: student-4
-      name: Inge Schmidt
-      affiliations:
-        - tud
-    - id: student-5
-      name: Jacob Schoones
-      affiliations:
-        - tud
+    # - id: student-4
+    #   name: Inge Schmidt
+    #   affiliations:
+    #     - tud
+    # - id: student-5
+    #   name: Jacob Schoones
+    #   affiliations:
+    #     - tud
 
   contributors:
     - id: supervisor-1
@@ -36,10 +36,10 @@ project:
       name: Dr. S. Nur
       affiliations:
         - tud
-    - id: committee-3
-      name: Dr. M.R. Vogt
-      affiliations:
-        - tud
+    # - id: committee-3
+    #   name: Dr. M.R. Vogt
+    #   affiliations:
+    #     - tud
 
   affiliations:
     - id: tud

@@ -9,15 +9,15 @@ project:
     - file: content/04.HW_S_Sensing.md
     - file: content/05.HW_S_Visualization.md
     - file: content/06.HW_S_Support_Systems.md
-    - file: content/07.SP_Overview.md
-    - file: content/08.SP_ESP.md
-    - file: content/09.SP_RPI.md
+    # - file: content/07.SP_Overview.md
+    # - file: content/08.SP_ESP.md
+    # - file: content/09.SP_RPI.md
     - file: content/10.Implementation.md
     - file: content/11.Discussion_Conclusion.md
     - title: Appendix
       children:
         - file: content/A.Appendix.md
         - file: content/B.AppendixB.md
-        - file: content/C.AppendixC.md
-        - file: content/D.AppendixD.md
+        # - file: content/C.AppendixC.md
+        # - file: content/D.AppendixD.md
         - file: content/E.AppendixE.md
